@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <p align="center">
-  <img src="./animate/yoru.jpg" alt="Yoru Banner" width="100%" />
+  <img src="./yoru.jpg" alt="Yoru Banner" width="100%" />
 </p>
 <br>
 <!-- Статичный заголовок -->
@@ -29,7 +29,7 @@
     </td>
     <!-- Правая колонка -->
     <td valign="middle" align="center" width="250">
-      <video src="./animate/k3nkvoqe8nopzi2v2b5k.mp4" width="220" autoplay loop muted playsinline></video>
+      <video src="./k3nkvoqe8nopzi2v2b5k.mp4" width="220" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
