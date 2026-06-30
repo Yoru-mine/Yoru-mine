@@ -1,10 +1,11 @@
 <!-- Баннер -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/yoru.jpg" alt="Yoru Banner" width="100%" /></p>
+  <img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/reze22.jpg" alt="Yoru Banner" width="400" />
+</p>
 <br>
 <!-- Статичный заголовок -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=999999&color=F5F0E1&center=true&vCenter=true&width=600&lines=──+yoru_mine+──" alt="yoru_mine" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=999999&color=F5F0E1&center=true&vCenter=true&width=600&lines=%E2%94%80%E2%94%80+yoru_mine+%E2%94%80%E2%94%80" alt="yoru_mine" />
 </p>
 <br>
 <!-- Двухколоночный макет -->
@@ -12,6 +13,7 @@
   <tr>
     <!-- Левая колонка -->
     <td valign="top" width="550">
+      <img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/reze11.jpg" align="left" width="90" style="margin-right:12px;" />
       <h3>Hello, world. I'm Sabina 🌙 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40" /></h3>
       <sub>
         Weaving interactive web ecosystems under the cover of night.<br>
@@ -28,7 +30,10 @@
     </td>
     <!-- Правая колонка -->
     <td valign="middle" align="center" width="250">
-<img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/yoru_cat.gif" width="220" /></table>
+      <img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/yoru_cat.gif" width="220" />
+    </td>
+  </tr>
+</table>
 <br>
 <!-- Анимация между блоками -->
 <p align="center">
@@ -36,7 +41,6 @@
 </p>
 <br>
 <code>[creative_space]</code>
-
 <p align="center">
   <ul style="display:inline-block; text-align:left;">
     <li>✨ <b>VFX & Graphics:</b> Generative art in TouchDesigner • Adobe Photoshop</li>
@@ -54,10 +58,10 @@
 <br>
 <!-- Автоматическая статистика GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoru-mine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sabina's GitHub Stats" />
+  <img src="https://helio-github-stats.vercel.app/api?username=Yoru-mine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sabina's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoru-mine&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=Yoru-mine&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 <br>
 <!-- Стилизованные контакты -->
