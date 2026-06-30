@@ -1,7 +1,6 @@
 <!-- Баннер -->
 <p align="center">
-  <img src="./yoru.jpg" alt="Yoru Banner" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/yoru.jpg" alt="Yoru Banner" width="100%" /></p>
 <br>
 <!-- Статичный заголовок -->
 <p align="center">
@@ -29,8 +28,7 @@
     </td>
     <!-- Правая колонка -->
     <td valign="middle" align="center" width="250">
-      <video src="./k3nkvoqe8nopzi2v2b5k.mp4" width="220" autoplay loop muted playsinline></video>
-    </td>
+<video src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/k3nkvoqe8nopzi2v2b5k.mp4" width="220" autoplay loop muted playsinline></video>    </td>
   </tr>
 </table>
 <br>
