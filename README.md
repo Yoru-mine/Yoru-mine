@@ -28,8 +28,7 @@
     </td>
     <!-- Правая колонка -->
     <td valign="middle" align="center" width="250">
-<video src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/k3nkvoqe8nopzi2v2b5k.mp4" width="220" autoplay loop muted playsinline></video>  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/Yoru-mine/Yoru-mine/main/yoru_cat.gif" width="220" /></table>
 <br>
 <!-- Анимация между блоками -->
 <p align="center">
